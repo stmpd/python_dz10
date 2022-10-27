@@ -1,1 +1,1 @@
-# python_dz10
+t.me/Python_Calco_bot
